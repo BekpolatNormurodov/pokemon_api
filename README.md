@@ -4,8 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-<a href="https://ibb.co/F7rffjg"><img src="https://i.ibb.co/HgSMMkn/img.jpg" height='150px' alt="img" border="0"></a><a target='_blank' href='https://imgbb.com/'></a>
-<a href="https://ibb.co/F7rffjg"><img src="https://i.ibb.co/HgSMMkn/img.jpg" height='150px' alt="img" border="0"></a><a target='_blank' href='https://imgbb.com/'></a>
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
